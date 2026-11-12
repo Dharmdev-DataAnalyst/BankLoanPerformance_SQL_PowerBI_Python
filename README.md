@@ -14,12 +14,12 @@ The summary page highlights the overall loan portfolio, including good vs. bad l
 ### 2. Overview Dashboard
 The overview page explores monthly trends, state-wise loan distribution, loan terms, employee length, loan purpose, and home ownership.
 
-![Bank Loan Overview Dashboard](DashboardImage/bank-loan-overview.png)
+![Bank Loan Overview Dashboard](DashboardImage/BankOverview.png)
 
 ### 3. Details Dashboard
 The details page provides a loan-level view with fields such as home ownership, purpose, grade, sub-grade, issue date, interest rate, installment, loan amount, and total payment.
 
-![Bank Loan Details Dashboard](DashboardImage/bank-loan-details.png)
+![Bank Loan Details Dashboard](DashboardImage/BankDetails.png)
 
 ## Project Objectives
 
@@ -89,5 +89,6 @@ The details page provides a loan-level view with fields such as home ownership, 
 ## Author
 
 Dharmdev Yadav
+
 Aspiring Data Analyst | SQL | Python | Power BI
 
